@@ -19,6 +19,6 @@ enkiscan.rb -h for help
 dnscheck
 ========
 
-Ruby DNS checker, a tool which generate a pdf file listing all domain name that you own whith full configuration retrieved by the dnschecker.
+Ruby DNS checker, a tool which generate a pdf file listing all domain name that you own with full configuration details retrieved by the dnschecker.
 
 dnscheck.rb -h for help
